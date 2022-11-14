@@ -1,4 +1,4 @@
-<h1 align="center">Oi 👋, Eu sou a Noeli</h1>
+<h1 align="center">Oi , Eu sou a Noeli</h1>
 <h3 align="center">Transformando dados em informação!</h3>
 
 - 🌱 Atualmente estou aprendendo **Python e RPA**
