@@ -21,7 +21,7 @@
 
 - 😄 Focada no desenvolvimento constante
 
-- ⚡ Curiosidade: Adoro desafios que me tirem da zona de conforto!
+- ⚡ Curiosidade: Adoro desafios, pricipalmente para sair da zona de conforto!
 
 
 
