@@ -12,8 +12,7 @@
 
 
 
-<h1 align="center">Oi 👋, Eu sou a Noeli</h1>
-![octocat-1674147279231](https://user-images.githubusercontent.com/118143692/213511668-41ff17d9-8af6-4116-9bed-a3f74e762b92.png)
+<h1 align="center">Olá 👋, Eu sou a Noeli</h1>
 <h3 align="center">Transformando dados em informação!</h3>
 
 - 🌱 Atualmente estou aprendendo **Python e RPA**
