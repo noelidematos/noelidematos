@@ -12,17 +12,18 @@
 
 
 
-<h1 align="center">Olá 👋, Eu sou a Noeli</h1>
-<h3 align="center">Transformando dados em informação!</h3>
+<h1 align="center">Olá , Eu sou a Noeli! </h1>
+<h3 align="center">Seja bem vindo (a)!</h3>
 
-- 🌱 Atualmente estou aprendendo **Python e RPA**
+- 🎓  Formação em Big Data e Inteligência Analítica
 
-- 💬 Me pergunte sobre **PowerBi,SQL e Python**
+- 💬 Me pergunte sobre **PowerBi, SQL e Python **
 
-- 😄 Focada no desenvolvimento constante
+- ✨ Focada no desenvolvimento constante
 
-- ⚡ Curiosidade: Adoro desafios, pricipalmente para sair da zona de conforto!
+- ⚡ Curiosidade: Adoro desafios, pricipalmente para sair da zona de conforto
 
+- 📒  Projetos realizados utilizando  Python 
 
 
 
@@ -33,10 +34,9 @@
 <a href = "mailto:noelimatos8@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <div>
 <a href="https://github.com/noelidematos">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=noelidematos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noelidematos&layout=compact&langs_count=7&theme=dracula"/>
+
 </div>
- 
+  
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
