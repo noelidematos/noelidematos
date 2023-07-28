@@ -23,7 +23,7 @@
 
 - ⚡ Curiosidade: Adoro desafios, pricipalmente para sair da zona de conforto
 
-- 📒  Projetos realizados utilizando  Python 
+- 📒📊📈  Projetos realizados utilizando  Python 
 
 
 
