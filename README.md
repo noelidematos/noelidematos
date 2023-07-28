@@ -12,7 +12,7 @@
 
 
 
-<h1 align="center">Olá , Eu sou a Noeli! </h1>
+<h1 align="center">Olá,Eu sou a Noeli! </h1>
 <h3 align="center">Seja bem vindo (a)!</h3>
 
 - 🎓  Formação em Big Data e Inteligência Analítica
