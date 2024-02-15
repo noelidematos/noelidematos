@@ -19,9 +19,9 @@
 
 - 💬 Me pergunte sobre **PowerBi, SQL e Python **
 
-- ✨ Focada no desenvolvimento constante
+- ✨ Focada no desenvolvimento constante.
 
-- ⚡ Curiosidade: Adoro desafios, pricipalmente para sair da zona de conforto
+- 📚 Meus livros preferidos são de desenvolvimento pessoal.
 
 - 📒📊📈  Projetos realizados utilizando  Python 
 
