@@ -12,18 +12,18 @@
 
 
 
-<h1 align="center">Olá, meu nome Noeli! </h1>
-<h3 align="center">Seja bem vindo (a)!</h3>
+<h1 align="center">Olá, Seja bem vindo (a)!</h1>
+<h3 align="center">Meu nome é Noeli.</h3>
 
 - 🎓  Formação em Big Data e Inteligência Analítica
 
-- 💬 Me pergunte sobre PowerBi, SQL e Python.
+- 💻 Skills PowerBi, SQL e Python.
 
 - ✨ Focada no desenvolvimento constante.
 
 - 📚 Meus livros preferidos são de desenvolvimento pessoal.
 
-- 📒📊📈  Projetos realizados utilizando  Python 
+  
 
 
 
