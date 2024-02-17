@@ -15,13 +15,13 @@
 <h1 align="center">Olá, Seja bem vindo (a)!</h1>
 <h3 align="center">Meu nome é Noeli.</h3>
 
-- 🎓  Formação em Big Data e Inteligência Analítica
+- 🎓  Formação em Big Data e Inteligência Analítica.
 
 - 💻 Skills PowerBi, SQL e Python.
 
 - ✨ Focada no desenvolvimento constante.
 
-- 📚 Meus livros preferidos são de desenvolvimento pessoal.
+- 📚 Meus livros preferidos, são sobre desenvolvimento pessoal.
 
   
 
