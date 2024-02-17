@@ -5,6 +5,7 @@
 <h3 align="center">Meu nome é Noeli.</h3>
 <h3 align="center">Meu objetivo é através dos dados, gerar valor para as organizações.</h3>
 
+
 - 🎓  Formação em Big Data e Inteligência Analítica.
 
 - 🎲 Skills PowerBi, SQL e Python.
