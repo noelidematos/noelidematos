@@ -1,27 +1,17 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 <h1 align="center">Olá, Seja bem vindo (a)!</h1>
 <h3 align="center">Meu nome é Noeli.</h3>
+<h3 align="center">Meu objetivo é através dos dados, gerar valor para as organizações.</h3>
 
 - 🎓  Formação em Big Data e Inteligência Analítica.
 
-- 💻 Skills PowerBi, SQL e Python.
-
-- ✨ Focada no desenvolvimento constante.
+- 🎲 Skills PowerBi, SQL e Python.
 
 - 📚 Meus livros preferidos, são sobre desenvolvimento pessoal.
+
+- 💻 Aqui você, encontra projetos de estudos e repositórios do que estou aprendendo no momento.
 
   
 
